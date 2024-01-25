@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @HellRemus
-- 👀 I’m interested in AI, machine learning, computer vision.
-- 🌱 I’m currently learning AI and ML.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @HellRemus
+- 🌱 I’m currently studying AI and ML.
+- 👀 I’m interested in AI, machine learning, computer vision, Minecraft.
 
 <!---
 HellRemus/HellRemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
